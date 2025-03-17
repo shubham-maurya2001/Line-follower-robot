@@ -14,11 +14,11 @@ This project is about building a **Line Follower Robot** using **Arduino UNO**. 
 
 ## 🖼️ Project Overview
 ### Robot Design:
-![Line Follower Robot](./Arduino-Line-Follower-Robot-Image-10-760x440.jpg)
-![Line Follower Robot in Action](./Arduino-Line-Follower-Robot-Image-9-760x440.jpg)
+![Line Follower Robot](./img/Arduino-Line-Follower-Robot-Image-10-760x440.jpg)
+![Line Follower Robot in Action](./img/Arduino-Line-Follower-Robot-Image-9-760x440.jpg)
 
 ### Circuit Diagram:
-![Circuit Diagram](./Line-Follower-Circuit-Diagram.png)
+![Circuit Diagram](./img/Line-Follower-Circuit-Diagram.png)
 
 ---
 
